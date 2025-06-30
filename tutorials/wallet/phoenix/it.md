@@ -119,7 +119,7 @@ Fai scorrere il codice QR verso sinistra per visualizzare un indirizzo di ricezi
 
 ![Image](assets/fr/19.webp)
 
-All'inizio, 'importo ricevuto on-chain apparirà "in sospeso" nel saldo del wallet. Ci vorranno 3 conferme prima che i fondi siano disponibili per l'invio.
+All'inizio, l'importo ricevuto on-chain apparirà "in sospeso" nel saldo del wallet. Ci vorranno 3 conferme prima che i fondi siano disponibili per l'invio.
 
 ![Image](assets/fr/20.webp)
 
@@ -129,23 +129,23 @@ Una volta ricevuti i fondi, Phoenix apre automaticamente un canale Lightning per
 
 ## Ricevi bitcoin tramite Lightning
 
-Per ricevere sats tramite la rete Lightning, fai clic sul pulsante "*Receive*".
+Per ricevere sats tramite la rete Lightning, clicca sul pulsante "*Receive*".
 
 ![Image](assets/fr/22.webp)
 
-Phoenix genera un invoice Lightning. Puoi scannerizzarlo o inviarlo alla persona che desidera mandarti sats.
+Phoenix genera un'invoice Lightning. Puoi scannerizzarlo o inviarlo alla persona che desidera mandarti sats.
 
 ![Image](assets/fr/23.webp)
 
-Facendo clic sul pulsante "*Edit*", puoi aggiungere una descrizione che sarà visibile a chi paga l'invoice, e puoi definire un importo specifico da ricevere.
+Cliccando sul pulsante "*Edit*", puoi aggiungere una descrizione che sarà visibile a chi paga l'invoice, e puoi definire un importo specifico da ricevere.
 
 ![Image](assets/fr/24.webp)
 
-Gli invoice di cui sopra possono essere utilizzati una sola volta. Nel caso si vogliano ricevere più fondi tramite lo stesso QR code, puoi ricorrere al codice QR riutilizzabile usando BOLT12.
+Le invoice di cui sopra possono essere utilizzate una sola volta. Nel caso si vogliano ricevere più fondi tramite lo stesso QR code, puoi ricorrere al codice QR riutilizzabile usando BOLT12.
 
 ![Image](assets/fr/25.webp)
 
-Una volta saldato l'invoice o l'offerta BOLT12, la transazione apparirà sul tuo wallet Lightning.
+Una volta saldata l'invoice o l'offerta BOLT12, la transazione apparirà sul tuo wallet Lightning.
 
 ![Image](assets/fr/26.webp)
 
@@ -155,7 +155,7 @@ Ora che hai dei fondi su Phoenix, sei pronto ad effettuare i pagamenti tramite l
 
 ![Image](assets/fr/27.webp)
 
-Sono disponibili diverse opzioni. Cliccando su "*Scan QR code*", puoi scansionare un invoice Lightning, un'opzione BOLT12 o anche un indirizzo di ricezione per il pagamento on-chain.
+Sono disponibili diverse opzioni. Cliccando su "*Scan QR code*", puoi scansionare un'invoice Lightning, un'opzione BOLT12 o anche un indirizzo di ricezione per il pagamento on-chain.
 
 ![Image](assets/fr/28.webp)
 
@@ -163,7 +163,7 @@ Puoi inserire queste informazioni anche manualmente tramite tastiera nel campo i
 
 ![Image](assets/fr/29.webp)
 
-In questo esempio, ho scansionato un invoice di 10.000 sats. Per effettuare il pagamento, basta cliccare su "*Pay*".
+In questo esempio, ho scansionato un'invoice di 10.000 sats. Per effettuare il pagamento, basta cliccare su "*Pay*".
 
 ![Image](assets/fr/30.webp)
 
