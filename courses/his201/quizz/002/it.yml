@@ -6,4 +6,4 @@ wrong_answers:
   - Threshold signatures
 explanation: |
   eCash si basa sul processo di blind signature, che consente a chi firma di firmare qualcosa senza vedere ciò che sta firmando.
-reviewed: false
+reviewed: true
