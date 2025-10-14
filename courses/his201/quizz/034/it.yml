@@ -6,4 +6,4 @@ wrong_answers:
   - SmokeTooMuch
 explanation: |
   Questo servizio era rudimentale: gli scambi venivano negoziati via email, e i pagamenti venivano effettuati tramite PayPal. Il tasso di cambio si basava sui costi di mining di NewLibertyStandard stesso.
-reviewed: false
+reviewed: true
