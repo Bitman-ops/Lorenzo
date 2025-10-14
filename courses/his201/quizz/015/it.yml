@@ -6,4 +6,4 @@ wrong_answers:
   - Bollire gli oceani
 explanation: |
   Hashcash richiedeva una prova di lavoro per ogni email ricevuta, il che doveva limitare lo spam.
-reviewed: false
+reviewed: true
