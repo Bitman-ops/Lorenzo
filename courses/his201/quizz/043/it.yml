@@ -6,4 +6,4 @@ wrong_answers:
   - Possibilità di minare un blocco
 explanation: |
   Questo servizio inizialmente distribuiva 5 bitcoin per richiesta, per permettere alle persone di provare il sistema. Questa quantità è stata ridotta nel tempo, e il faucet è stato chiuso nel 2012.
-reviewed: false
+reviewed: true
