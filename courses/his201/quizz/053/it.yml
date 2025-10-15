@@ -5,5 +5,5 @@ wrong_answers:
   - Il limite di dimensione del blocco
   - Il formato standard della transazione
 explanation: |
-  Questi erano istruzioni no-op che non invalidavano lo script se eseguite. Hanno permesso l'aggiunta di OP_CHECKLOCKTIMEVERIFY e OP_CHECKSEQUENCEVERIFY al protocollo nel 2015/2016.
-reviewed: false
+  Questi codici erano istruzioni no-op che non invalidavano lo script se eseguite. Hanno permesso l'aggiunta di OP_CHECKLOCKTIMEVERIFY e OP_CHECKSEQUENCEVERIFY al protocollo nel 2015/2016.
+reviewed: true
