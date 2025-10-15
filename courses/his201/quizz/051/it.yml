@@ -6,4 +6,4 @@ wrong_answers:
   - Il bug LSHIFT
 explanation: |
   La falla non è stata sfruttata. Satoshi ha rapidamente incluso la correzione nel software e ha raccomandato a tutti gli utenti di aggiornare.
-reviewed: false
+reviewed: true
