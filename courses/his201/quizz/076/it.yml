@@ -6,4 +6,4 @@ wrong_answers:
   - Nils Schneider
 explanation: |
   Questo sistema è stato modellato sulle Proposte di Miglioramento di Python (PEP), specifiche per il linguaggio di programmazione Python.
-reviewed: false
+reviewed: true
